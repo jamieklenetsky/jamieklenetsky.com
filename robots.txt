@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://jkf-site.netlify.app/sitemap.xml
+Sitemap: https://jamieklenetsky.com/sitemap.xml
